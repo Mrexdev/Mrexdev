@@ -30,14 +30,15 @@
 
 ### 🚀 Bots et systèmes RP
 
-| Projet         | Description |
-|----------------|-------------|
-| **InfraBot**   | Backups automatiques, interface privée, logs personnalisés |
-| **Arcadia**    | Mini-jeux interactifs avec système de récompenses |
-| **Sentinel**   | Système anti-raid/anti-spam autonome |
-| **WitchyBot**  | Expérience mystique pour événements RP |
+| Projet           | Description |
+|------------------|-------------|
+| **InfraBot**     | Backups automatiques, interface privée, logs personnalisés |
+| **Arcadia**      | Mini-jeux interactifs avec système de récompenses |
+| **Sentinel**     | Système anti-raid/anti-spam autonome |
+| **WitchyBot**    | Expérience mystique pour événements RP |
 | **Systèmes vocaux** | Gestion auto de salons privés par boutons et modals |
-| **Tebex bot**  | Intégration boutique avec système de validation interne |
+| **Tebex bot**    | Intégration boutique avec système de validation interne |
+| **Parlon!**      | Système de support anonyme avec tickets sécurisés et interface enrichie |
 
 ---
 
