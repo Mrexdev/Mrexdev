@@ -9,9 +9,9 @@
 
 ### 📣 À propos de moi
 
-- 💻 Développeur passionné de bots Discord et systèmes GTA RP
-- 🚀 Créateur de systèmes immersifs : salons vocaux, IA, anonymat, économie RP
-- 🛠️ Maîtrise des bases de données, handlers modulaires, UI dynamiques
+- 💻 Développeur passionné de bots Discord et systèmes GTA RP  
+- 🚀 Créateur de systèmes immersifs : salons vocaux, IA, anonymat, économie RP  
+- 🛠️ Maîtrise des bases de données, handlers modulaires, UI dynamiques  
 - 🔐 Pour toute demande : contactez-moi en privé via Discord (pseudo disponible sur demande)
 
 ---
@@ -21,6 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-0F6AB4?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,19 +43,18 @@
 
 ### 🎮 RP & GTA FiveM
 
-- 🔫 Commandes d'armes avancées
-- 💼 Gestion des offres d’emploi & candidatures
-- 🧠 Suivi des joueurs (RP, stats, infractions)
+- 🔫 Commandes d'armes avancées  
+- 💼 Gestion des offres d’emploi & candidatures  
+- 🧠 Suivi des joueurs (RP, stats, infractions)  
 - 💣 Modes immersifs : `/panicmode`, `/blackout`, etc.
 
 ---
 
 ### 📦 En développement
 
-- ✨ IA conversationnelle avec mémoire
-- 👻 Chat anonyme entre utilisateurs (file d’attente sécurisée)
-- 🧠 Détection de comportements suspects
-- 🔁 Système de sauvegarde/restauration intelligent
+- ✨ IA conversationnelle avec mémoire  
+- 🧠 Détection de comportements suspects  
+- 🔁 Système de sauvegarde/restauration intelligent  
 
 ---
 
@@ -69,24 +69,22 @@
 
 ### 🧭 Timeline rapide
 
-- 🔧 2022 : Premiers projets RP
-- 🚀 2023 : Systèmes vocaux, anti-raid, economy
-- 🧠 2024 : Automations, UI animées, infra avancée
-- 🧪 2025 : Intelligence conversationnelle et IA serveur
+- 🔧 2022 : Premiers projets RP  
+- 🚀 2023 : Systèmes vocaux, anti-raid, economy  
+- 🧠 2024 : Automations, UI animées, infra avancée  
+- 🧪 2025 : Intelligence conversationnelle et IA serveur  
 
 ---
 
 ### 🧑‍🎨 Signature
 
 ```
-
 // ███╗░░░███╗██████╗░███████╗██╗░░██╗
 // ████╗░████║██╔══██╗██╔════╝╚██╗██╔╝
 // ██╔████╔██║██████╔╝█████╗░░░╚███╔╝░
 // ██║╚██╔╝██║██╔══██╗██╔══╝░░░██╔██╗░
 // ██║░╚═╝░██║██║░░██║███████╗██╔╝╚██╗
 // ╚═╝░░░░░╚═╝╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝
-
 ```
 
 > _"Créer des bots stylés, fluides et intelligents, c’est mon métier."_ –๖̶ζ͜͡Mrex
